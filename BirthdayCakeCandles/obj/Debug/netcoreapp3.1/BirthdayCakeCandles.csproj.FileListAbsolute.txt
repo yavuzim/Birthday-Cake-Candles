@@ -1,0 +1,13 @@
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.exe
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.deps.json
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.runtimeconfig.json
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.runtimeconfig.dev.json
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.dll
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\bin\Debug\netcoreapp3.1\BirthdayCakeCandles.pdb
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.csprojAssemblyReference.cache
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.AssemblyInfoInputs.cache
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.AssemblyInfo.cs
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.csproj.CoreCompileInputs.cache
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.dll
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.pdb
+C:\Users\YAVUZ İMER\Desktop\BirthdayCakeCandles\BirthdayCakeCandles\obj\Debug\netcoreapp3.1\BirthdayCakeCandles.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYeQhJNQVo8WUB9c183N8FpibJxAD+gFusQyzWMTgABfQbIRyk0xkSG+NegfGfyVgGwhUu4Sad5e/CsKUt4R8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YAVUZ İMER\\Desktop\\BirthdayCakeCandles\\BirthdayCakeCandles\\BirthdayCakeCandles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YAVUZ İMER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
